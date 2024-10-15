@@ -1,3 +1,4 @@
+# Configs
 You just need to edit [src/config/config.json](src/config/config.json)
 
 ```json
@@ -19,5 +20,5 @@ You just need to edit [src/config/config.json](src/config/config.json)
 }
 ```
 
-# Tutorials
+## Tutorials
  You can edit token, clientId, guildId, doubledPoints, logsChannelId only if you did edit others it might broke so don't do it hehe
