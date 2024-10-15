@@ -1,1 +1,1 @@
-You just need to edit this [file](src/config/config.json)
+You just need to edit [src/config/config.json](src/config/config.json)
