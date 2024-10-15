@@ -7,3 +7,5 @@ function createEmbed(title, description, fields = [], color = 0x3498DB) {
         .addFields(fields)
         .setColor(color);
 }
+
+module.exports = createEmbed;
