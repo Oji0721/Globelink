@@ -1,4 +1,7 @@
-# Configs
+# Points Bot
+Made by ttds_123 (on discord) you can dm me if you wanna build a custom bot
+
+## Configs
 You just need to edit [src/config/config.json](src/config/config.json)
 
 ```json
