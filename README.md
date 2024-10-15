@@ -1,1 +1,19 @@
 You just need to edit [src/config/config.json](src/config/config.json)
+
+```json
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_CLIENT_ID",
+  "guildId": "YOUR_GUILD_ID",
+  "allowedRoles": ["ROLE_ID_1", "ROLE_ID_2"],
+  "speakingPoints": {
+    "shortLength": 50,
+    "mediumLength": 100,
+    "short": 1,
+    "medium": 2,
+    "long": 3
+  },
+  "logsChannelId": "LOGS_CHANNEL_ID",
+  "doublePoints": false,
+  "pointsFilePath": "./data/points.json"
+}```
